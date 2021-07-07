@@ -24,31 +24,29 @@ I build this application while learning about encryption.
 <li>SHA512</li>
 <li>MD5</li>
 </ul>
+
 3. Click generate button to encrypt the text.
 4. Copy the encrypted text.
 
 # Examples
 
-1. SHA256: 
+## 1. SHA256: 
 <ul>
 <li>text -> exp</li>
 <li>Encrypted text: dd7a946de80abf41797036335be60bf207f3262c6429f4993005d91f174ecf07</li>
 </ul>
 
-2. SHA512: 
+## 2. SHA512: 
 <ul>
 <li>text -> test</li>
 <li>Encrypted text: ee26b0dd4af7e749aa1a8ee3c10ae9923f618980772e473f8819a5d4940e0db27ac185f8a0e1d5f84f88bc887fd67b143732c304cc5fa9ad8e6f57f50028a8ff</li>
 </ul>
 
-2. MD5: 
+## 3. MD5: 
 <ul>
 <li>text -> test3</li>
 <li>Encrypted text: 8ad8757baa8564dc136c1e07507f4a98</li>
 </ul>
-
-
-The app is designed with Google Material Design that supports the Android versions from Kitkat 4.4.0 to Android 11.
 
 # Screenshots
 
@@ -59,3 +57,4 @@ The app is designed with Google Material Design that supports the Android versio
 
 
 # I also highly recommend you to suggest some improvements in the project.
+The app is designed with Google Material Design that supports the Android versions from Kitkat 4.4.0 to Android 11.
